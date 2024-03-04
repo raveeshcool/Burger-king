@@ -17,8 +17,8 @@ body {
     background-color: #1e1919;
     font-size: 1.5rem;
     img {
-        max-width: 50%; /* Ensure the image does not exceed its parent container's width */
-        height: auto; /* Maintain the aspect ratio */
+        max-width: 50%; 
+        height: auto; 
     }
 }
 
